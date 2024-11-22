@@ -12,7 +12,7 @@
       "name": "주말 서버",
       "description": "JumalServer Running Minecraft 1.16.5 (Forge v36.2.42)",
       "icon": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/launcherIMG.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "125.179.187.152",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -484,6 +484,17 @@
             "size": 5520538,
             "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8_MOD.jar",
             "MD5": "df194e6218035710b2bcacbf389e18bc"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 6106,
+            "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/files/options.txt",
+            "MD5": "e3eca383ac8576dc835b0279f4f93646",
+            "path": "options.txt"
           }
         },
         {
