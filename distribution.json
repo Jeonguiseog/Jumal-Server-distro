@@ -12,7 +12,7 @@
       "name": "주말 서버",
       "description": "JumalServer Running Minecraft 1.16.5 (Forge v36.2.42)",
       "icon": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/launcherIMG.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "125.179.187.152",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -452,7 +452,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 426052437,
-            "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/forgemods/required/Pixelmon-1.16.5-9.1.12-universal.jar",
+            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/zogGWRSd/Pixelmon-1.16.5-9.1.12-universal.jar",
             "MD5": "06b20e29c4459836ddba2508f43811e1"
           }
         },
