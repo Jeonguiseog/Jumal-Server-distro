@@ -447,7 +447,7 @@
           }
         },
         {
-          "id": "com.pixelmonmod:pixelmon:9.1.12@jar",
+          "id": "com.pixelmonmod:pixelmon:9.1.13@jar",
           "name": "Pixelmon Mod",
           "type": "ForgeMod",
           "artifact": {
