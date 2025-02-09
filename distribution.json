@@ -12,7 +12,7 @@
       "name": "주말 서버",
       "description": "JumalServer Running Minecraft 1.16.5 (Forge v36.2.42)",
       "icon": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/launcherIMG.png",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "address": "125.179.187.152",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -464,16 +464,6 @@
             "size": 1695951,
             "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/forgemods/required/TerraForged-1.16.5-0.2.16.jar",
             "MD5": "eb71e738c8d300b98921d336bcc0bfe1"
-          }
-        },
-        {
-          "id": "de.maxhenkel:voicechat:1.16.5-2.5.19@jar",
-          "name": "Simple Voice Chat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7705083,
-            "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.19.jar",
-            "MD5": "7b70cea6b901948019849333b41fb525"
           }
         },
         {
