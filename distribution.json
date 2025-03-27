@@ -12,7 +12,7 @@
       "name": "주말 서버",
       "description": "JumalServer Running Minecraft 1.16.5 (Forge v36.2.42)",
       "icon": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/launcherIMG.png",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "address": "125.179.187.152",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -367,6 +367,26 @@
           }
         },
         {
+          "id": "com.betterfpsdist:betterfpsdist:1.2@jar",
+          "name": "Betterfpsdist mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14478,
+            "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/forgemods/required/betterfpsdist-1.2.jar",
+            "MD5": "2308031c7afa5e023fd5d988210890f7"
+          }
+        },
+        {
+          "id": "dzwdz.chat_heads:chat_heads:0.6.0@jar",
+          "name": "Chat Heads",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27778,
+            "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/forgemods/required/chat_heads-0.6.0-forge-1.16.5.jar",
+            "MD5": "10595dfd1a32c8e46e11a649f565fbe9"
+          }
+        },
+        {
           "id": "jp.axer.cocoainput.loader:cocoainput:4.0.4@jar",
           "name": "CocoaInput",
           "type": "ForgeMod",
@@ -387,6 +407,16 @@
           }
         },
         {
+          "id": "dev.tr7zw:entityculling:1.5.2@jar",
+          "name": "EntityCulling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 46532,
+            "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/forgemods/required/entityculling-forge-mc1.16.5-1.5.2.jar",
+            "MD5": "8696ac24f0d209aadaf754bed9c2e1f6"
+          }
+        },
+        {
           "id": "vectorwing.farmersdelight:farmersdelight:1.16.5-0.6.0@jar",
           "name": "Farmer's Delight",
           "type": "ForgeMod",
@@ -404,6 +434,16 @@
             "size": 319948,
             "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/forgemods/required/farmersrespite-1.16.5-1.1.jar",
             "MD5": "e3798ae2f1917783db2d3b7bbc0198bb"
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:2.1.1@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 108557,
+            "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/forgemods/required/ferritecore-2.1.1-forge.jar",
+            "MD5": "6a96a36de00e5d8e9bf2e87634d13125"
           }
         },
         {
@@ -437,6 +477,16 @@
           }
         },
         {
+          "id": "me.steinborn:lazydfu:0.1.3@jar",
+          "name": "LazyDFU",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15258,
+            "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/forgemods/required/lazydfu-0.1.3.jar",
+            "MD5": "fce7920ba6329d631da4025e9322e5e0"
+          }
+        },
+        {
           "id": "ca.fxco:memoryleakfix:1.1.5@jar",
           "name": "Memory Leak Fix",
           "type": "ForgeMod",
@@ -447,6 +497,16 @@
           }
         },
         {
+          "id": "net.coderbot.iris:oculus:1.4.8@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3133901,
+            "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/forgemods/required/oculus-mc1.16.5-1.4.8.jar",
+            "MD5": "568661a2dd12b461674c7f3a80837804"
+          }
+        },
+        {
           "id": "com.pixelmonmod:pixelmon:9.1.13@jar",
           "name": "Pixelmon Mod",
           "type": "ForgeMod",
@@ -454,6 +514,36 @@
             "size": 427522531,
             "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/CPLYWxEL/Pixelmon-1.16.5-9.1.13-universal.jar",
             "MD5": "08f2991eaf207cdcc2bf8a48866d3b52"
+          }
+        },
+        {
+          "id": "me.flashyreese.mods:sodiumextra:0.4.18+mc1.16.5-build.107@jar",
+          "name": "Rubidium Extra",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 313734,
+            "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/forgemods/required/rubidium-extra-0.4.18+mc1.16.5-build.107.jar",
+            "MD5": "487bea7026df58a87fa3582b17c5ddcc"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:rubidium:0.2.13@jar",
+          "name": "Rubidium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 625052,
+            "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/forgemods/required/rubidium-mc1.16.5-0.2.13.jar",
+            "MD5": "908bbd1fd7b988bc61d685344e6de496"
+          }
+        },
+        {
+          "id": "io.github.ultimateboomer:smoothboot:1.16.4-1.2.2@jar",
+          "name": "Smooth Boot",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 84744,
+            "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/forgemods/required/smoothboot-forge-1.16.4-1.2.2.jar",
+            "MD5": "104ca76ce6b18b90fbfa4c58b3bbdfc2"
           }
         },
         {
@@ -474,16 +564,6 @@
             "size": 7705083,
             "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.19.jar",
             "MD5": "7b70cea6b901948019849333b41fb525"
-          }
-        },
-        {
-          "id": "generated.library:OptiFine_1.16.5_HD_U_G8_MOD:0.0.0@jar",
-          "name": "OptiFine_1.16.5_HD_U_G8_MOD",
-          "type": "Library",
-          "artifact": {
-            "size": 5520538,
-            "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8_MOD.jar",
-            "MD5": "df194e6218035710b2bcacbf389e18bc"
           }
         },
         {
