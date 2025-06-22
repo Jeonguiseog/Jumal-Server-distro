@@ -11,8 +11,8 @@
       "id": "JumalServer-1.16.5",
       "name": "주말 서버",
       "description": "JumalServer Running Minecraft 1.16.5 (Forge v36.2.42)",
-      "icon": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/launcherIMG.png",
-      "version": "1.0.8",
+      "icon": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/launcherIMG2.png",
+      "version": "1.0.9",
       "address": "125.179.187.152",
       "minecraftVersion": "1.16.5",
       "discord": {
