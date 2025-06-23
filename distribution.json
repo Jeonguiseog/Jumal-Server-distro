@@ -12,7 +12,7 @@
       "name": "주말 서버",
       "description": "JumalServer Running Minecraft 1.16.5 (Forge v36.2.42)",
       "icon": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/launcherIMG2.png",
-      "version": "1.0.9",
+      "version": "1.1.0",
       "address": "125.179.187.152",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -514,6 +514,16 @@
             "size": 427522531,
             "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/CPLYWxEL/Pixelmon-1.16.5-9.1.13-universal.jar",
             "MD5": "08f2991eaf207cdcc2bf8a48866d3b52"
+          }
+        },
+        {
+          "id": "org.mark.pixelmonlegendarytimermod:pixelmonlegendarytimer:1.0.0@jar",
+          "name": "PixelmonLegendaryTimerMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26357,
+            "url": "https://raw.githubusercontent.com/Jeonguiseog/Jumal-Server-distro/main/servers/JumalServer-1.16.5/forgemods/required/PixelmonLegendaryTimerMod-1.0.0.jar",
+            "MD5": "485ea78cdfb45ca14417a600e4eceda7"
           }
         },
         {
